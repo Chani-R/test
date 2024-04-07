@@ -1,3 +1,3 @@
-# Thus is the header
+# This is the header
 
 some text
